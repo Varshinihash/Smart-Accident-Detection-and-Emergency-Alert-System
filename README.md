@@ -31,7 +31,7 @@ This project is an Arduino-based accident detection and emergency alert system d
 - ## Technologies Used
 
 - Arduino IDE
-- Embedded C/C++
+- Embedded C
 - Serial Communication
 - GPS Tracking
 - GSM Communication
@@ -49,4 +49,4 @@ This project is an Arduino-based accident detection and emergency alert system d
 - Real-Time Accident Analytics
 - IoT Dashboard for Emergency Services
 
-- 
+  
