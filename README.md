@@ -19,7 +19,8 @@ This project is an Arduino-based accident detection and emergency alert system d
 - Push Button
 - PCB
 - Power Supply
-- ## Working Principle
+
+  ## Working Principle
 
 1. The MPU6050 continuously monitors acceleration and tilt values.
 2. When the measured values exceed predefined thresholds, an accident is assumed.
