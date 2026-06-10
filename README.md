@@ -8,6 +8,7 @@ This project is an Arduino-based accident detection and emergency alert system d
 - Automatic emergency alert generation
 - Real-time monitoring
 - Low-cost embedded solution
+ 
 ## Components Used
 
 - Arduino Uno
@@ -20,7 +21,7 @@ This project is an Arduino-based accident detection and emergency alert system d
 - PCB
 - Power Supply
 
-  ## Working Principle
+## Working Principle
 
 1. The MPU6050 continuously monitors acceleration and tilt values.
 2. When the measured values exceed predefined thresholds, an accident is assumed.
@@ -29,13 +30,15 @@ This project is an Arduino-based accident detection and emergency alert system d
 5. If no response is received, the GPS module acquires the current location.
 6. The GSM module sends an emergency SMS containing the accident notification and GPS coordinates.
 7. System status is displayed on the LCD screen.
-- ## Technologies Used
+ 
+## Technologies Used
 
 - Arduino IDE
 - Embedded C
 - Serial Communication
 - GPS Tracking
 - GSM Communication
+  
 ## Applications
 
 - Vehicle Safety Systems
